@@ -1,5 +1,7 @@
 [English](README.md) | [Русский](README.ru.md) | **中文**
 
+> 本文由模型翻译，尚未经人工审校；如有出入，以英文版为准。
+
 # mercurius-media-docs
 
 一个用 Python 编写的小型 HTTP 服务：提取办公文档和 PDF 的文本，并根据纯 JSON 描述生成新的 `docx`、`xlsx` 和 `pptx` 文件。它是 [Mercurius](https://github.com/opencck/mercurius) 的一个模块，也可以单独使用。有了该模块，智能体可以读取收到的文档，并按需制作文档；没有它智能体照样能工作，
